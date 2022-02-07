@@ -7,7 +7,7 @@
 [Average Aco](/https://callmetoots.itch.io/average-aco)
 <img src="https://img.itch.zone/aW1nLzc2MzE2NTkucG5n/original/BZN7se.png"/>
 <br><br>
-This project was made during a week of education at PISMO Novska  
+This project was made during a week of education at PISMO Novska in 2021.  
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
