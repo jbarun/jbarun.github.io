@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Average Aco](/https://callmetoots.itch.io/average-aco)
+<img src="https://img.itch.zone/aW1nLzc2MzE2NTkucG5n/original/BZN7se.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
