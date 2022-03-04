@@ -1,7 +1,9 @@
 ## Portfolio
 
 ---
-
+### About me
+<br><br>
+I have a bachelor's degree in Croatian and English language and literature, during my studies I worked summer jobs as a waiter, which got me used to a fast pace, adaptability and improved my communication skills. I also used these skills as president of a student association at my university. During this time I was involved in the organization of a couple of international symposia and several smaller events of entertaining and educational nature. I have also passed the acclaimed Unity Game Development course at PISMO Novska during which I have had experience with programming, leading and managing different projects. Currently, I am in the process of opening my own indie game dev studio and looking forward to new, exciting projects. 
 ### Game projects
 
 [Project Spark](https://loki2379.itch.io/project-spark)
